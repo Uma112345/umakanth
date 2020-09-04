@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20987" started-at="2020-08-06T08:19:57 IST" finished-at="2020-08-06T08:20:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20987" started-at="2020-08-06T08:19:57 IST" finished-at="2020-08-06T08:20:18 IST">
+      <class name="testAutomation.WebBroswerTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testAutomation.WebBroswerTest@4f063c0a]" name="beforeClass" is-config="true" duration-ms="16017" started-at="2020-08-06T08:19:57 IST" finished-at="2020-08-06T08:20:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:testAutomation.WebBroswerTest@4f063c0a]" name="Login" duration-ms="3000" started-at="2020-08-06T08:20:13 IST" finished-at="2020-08-06T08:20:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:testAutomation.WebBroswerTest@4f063c0a]" name="Logout" duration-ms="1181" started-at="2020-08-06T08:20:16 IST" finished-at="2020-08-06T08:20:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testAutomation.WebBroswerTest@4f063c0a]" name="afterClass" is-config="true" duration-ms="705" started-at="2020-08-06T08:20:17 IST" finished-at="2020-08-06T08:20:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testAutomation.WebBroswerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
